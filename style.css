@@ -23,7 +23,7 @@ ul {
     
 }
 .header {
-    padding: 16px 200px 16px 200px;
+    padding: 16px 500px;
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
@@ -35,7 +35,7 @@ ul {
 }
 .hero {
     color: #e5e7eb;
-    padding: 120px 200px 120px 200px;
+    padding: 120px 500px;
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
@@ -105,7 +105,7 @@ ul {
     height: 160px;
 }
 .quote-section {
-    padding: 120px 280px 120px 280px;
+    padding: 120px 600px;
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
@@ -124,4 +124,30 @@ ul {
     align-self: flex-end;
     font-weight: 600;
     text-align: right;
+}
+.call-action{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    padding: 100px 500px;
+}
+.blue-box {
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+    color: #faf9f8;
+    align-items: center;
+    padding: 40px 64px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    width: 100%;
+}
+.action-button {
+    padding: 8px 40px;
+    border-radius: 6px;
+    border: 1px solid #f9faf8;
+    font-weight: 700;
+}
+.blue-box h1{
+    font-size: 24px;
 }
