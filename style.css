@@ -100,7 +100,7 @@ ul {
 }
 .ilustration {
     border: 4px solid #3882f6;
-    border-radius: 8px;
+    border-radius: 12px;
     width: 160px;
     height: 160px;
 }
@@ -150,4 +150,11 @@ ul {
 }
 .blue-box h1{
     font-size: 24px;
+}
+footer {
+    padding: 36px;
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #f9faf8;
 }
