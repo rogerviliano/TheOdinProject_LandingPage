@@ -133,11 +133,13 @@ ul {
     align-items: center;
     justify-content:center;
     padding: 100px 100px;
+    
 }
 .blue-box {
     display: flex;
     justify-content: center;
     gap: 250px;
+    flex-wrap: wrap;
     color: #faf9f8;
     align-items: center;
     padding: 40px 64px;
