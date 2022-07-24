@@ -147,6 +147,20 @@ ul {
     border-radius: 6px;
     border: 1px solid #f9faf8;
     font-weight: 700;
+    
+}
+.action-button a {
+    padding: 8px;
+    margin:36px;
+    text-decoration: none;
+    color: #f9faf8;
+    margin: 0;
+    
+}
+.action-button a:hover {
+    font-size: 105%;
+    
+    
 }
 .blue-box h1{
     font-size: 24px;
