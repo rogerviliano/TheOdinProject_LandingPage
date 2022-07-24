@@ -23,7 +23,7 @@ ul {
     
 }
 .header {
-    padding: 16px 500px;
+    padding: 16px 100px;
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
@@ -35,7 +35,7 @@ ul {
 }
 .hero {
     color: #e5e7eb;
-    padding: 120px 500px;
+    padding: 120px 100px;
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
@@ -105,7 +105,7 @@ ul {
     height: 160px;
 }
 .quote-section {
-    padding: 120px 600px;
+    padding: 120px 300px;
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
@@ -129,7 +129,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content:center;
-    padding: 100px 500px;
+    padding: 100px 100px;
 }
 .blue-box {
     display: flex;
